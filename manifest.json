@@ -1,0 +1,22 @@
+{
+  "name": "HER JOURNEY 240 — BODY, MIND & US ❤️",
+  "short_name": "HerJourney240",
+  "description": "HER JOURNEY 240 — 240 days of simple daily diet, walking workout, calorie tracking and affectionate wellness.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/app-icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/app-icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
